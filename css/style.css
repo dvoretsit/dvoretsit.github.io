@@ -1,0 +1,33 @@
+body{
+        padding: 0 30px;
+        font-size: 16px;
+        line-height: 26px;
+        font-family: "Arial", sans-serif;
+		background-color:navajowhite
+        }
+        h1{
+        font-size: 24px;
+        line-height: normal;
+        }
+        h2{
+        font-size: 20px;
+        line-height: normal;
+        }
+        img{
+        margin:15px;   
+        }
+        .page-title{
+        font-size:30px;
+        }
+		li{
+        font-weight: bolder;
+		}
+		.container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+		margin:30px;
+        }    
+		footer{
+        word-spacing:20px;
+		}
